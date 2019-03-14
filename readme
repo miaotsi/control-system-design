@@ -1,0 +1,6 @@
+This week we discussed the analysis of input signal.
+
+This homework is to analyse the pitch angle of an angle servo system.
+
+I calculated the d/dt and d/dt2 of the signal and applied fft() to learn its frequency features
+#using Matlab
